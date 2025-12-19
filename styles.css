@@ -61,3 +61,11 @@ h3{
 .char-header h3 {
     color: rgb(235, 228, 128) !important;
 }
+#loadingBar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3px;
+    z-index: 2000;
+    background-color: rgb(235, 228, 128) !important;
+}
